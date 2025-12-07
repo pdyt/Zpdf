@@ -1,7 +1,7 @@
 <div align="center" xmlns="http://www.w3.org/1999/html">
 <!-- Zpdf logo -->
 <p align="center">
-  <img src="Product_Logo.png" width="300px" style="vertical-align:middle;">
+  <img src="images/Product_Logo.png" width="300px" style="vertical-align:middle;">
 </p>
 </div>
 
