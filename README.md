@@ -6,18 +6,25 @@
 </div>
 
 
+<p align="center">
+  <a href="README_EN.md">English</a> | <a href="README.md">简体中文</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pdyt/Zpdf/stargazers"><img src="https://img.shields.io/github/stars/pdyt/Zpdf.svg" alt="GitHub stars"></a>
+  <a href="https://github.com/pdyt/Zpdf/network/members"><img src="https://img.shields.io/github/forks/pdyt/Zpdf.svg" alt="GitHub forks"></a>
+  <a href="https://github.com/pdyt/Zpdf/issues"><img src="https://img.shields.io/github/issues-raw/pdyt/Zpdf" alt="Open issues"></a>
+  <a href="https://github.com/pdyt/Zpdf/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/pdyt/Zpdf" alt="Closed issues"></a>
+</p>
+
+
+
 
 # Zpdf官网链接
 <p align="center">
  🚀<a href="https://www.zhiyipdf.com/">Zpdf官网直达（zhiyipdf.com）→ ✨免装即用 📱客户端全功能拉满 ⚡开发者API 一键调用，零部署门槛，多形态覆盖全场景，速来体验！</a>
 </p>
 
-[![stars](https://img.shields.io/github/stars/pdyt/Zpdf.svg)](https://github.com/pdyt/Zpdf)
-[![forks](https://img.shields.io/github/forks/pdyt/Zpdf.svg)](https://github.com/pdyt/Zpdf)
-[![open issues](https://img.shields.io/github/issues-raw/pdyt/Zpdf)](https://github.com/pdyt/Zpdf/issues)
-[![issue resolution](https://img.shields.io/github/issues-closed-raw/pdyt/Zpdf)](https://github.com/pdyt/Zpdf/issues)
-
-[English](README.md) | [简体中文](README_CN.md)
 
 
 # Zpdf
