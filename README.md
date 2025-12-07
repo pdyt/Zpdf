@@ -43,26 +43,26 @@ Zpdf是一款基于**微调大语言模型**的PDF文档处理平台，针对**�
 **1. 高精度PDF转Markdown解析与翻译**
 - 精准识别并提取PDF中的文本、公式、表格等内容，一键转换为可编辑的Markdown格式，适配大模型输入需求，同时支持多语言翻译。
 <p align="center">
-  <img src="复杂PDF解析.png" width="600px" style="vertical-align:middle;">
+  <img src="images/复杂PDF解析.png" width="600px" style="vertical-align:middle;">
 </p>
 
 **2. 手写图片/PDF识别**
 - 针对手写文本、手写公式、手写化学分子式等非印刷体或模糊文本内容，实现高准确度识别与数字化提取，高效解决手写资料难以编辑、检索的痛点。
 <p align="center">
-  <img src="手写图片识别.png" width="450px" style="vertical-align:middle;">
+  <img src="images/手写图片识别.png" width="450px" style="vertical-align:middle;">
 </p>
 
 
 **3. 多格式双向转换（Markdown）**
 - 支持将Markdown文件灵活转换为Word、PDF等常用办公格式，以及HTML、TeX等专业排版格式，适配不同场景下的文档输出需求。
 <p align="center">
-  <img src="格式转换.png" width="500px" style="vertical-align:middle;">
+  <img src="images/格式转换.png" width="500px" style="vertical-align:middle;">
 </p>
 
 **4. PDF 保留原排版精准翻译**
 - 传统的PDF保留排版翻译，在翻译过程中严格复刻原文档的版式结构，适配学术论文、技术手册等专业文档。
 <p align="center">
-  <img src="PDF保留排版翻译.png" width="600px" style="vertical-align:middle;">
+  <img src="images/PDF保留排版翻译.png" width="600px" style="vertical-align:middle;">
 </p>
 
 
